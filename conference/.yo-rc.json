@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "hoang.pham.vm"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "microservice",
+    "baseName": "conference",
+    "packageName": "hoang.pham.vm",
+    "packageFolder": "hoang/pham/vm",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGJmNjA4YjE2ZmVlYzhkNDcyZjM1ZTM4NWI5YjkzZmFkNjhlMjY4NTIyMjk1YmRjZDdmYmM2NDk0ODkzNjhkZTQxNzg2NjEyZDVlYTgzOWYxMGM0YTFlOTU3OGI3NDY0MzQ4MjE0ODk5ODdhN2YzMTUyODY2NjBmY2Y1NGM5MGM=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
