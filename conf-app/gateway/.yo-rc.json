@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "hoang.pham.vm"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "hoang.pham.vm",
+    "packageFolder": "hoang/pham/vm",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmI2MTg3OWFlMjZmZTdlOWViNjM0YWVkZjgyM2U3MjFmNmFiOTVhM2UwOTkyNDg4NzA0ZjBiYTNlMTkwZTc4NTgzNWQ4ZTQzOTZiZjM0MDY3ZmVhZmUzZWNhN2U0ZWIyNmEyNDJjNDljMTFhMTgzNTViMTRkZjIxY2YwYTY2YTQ=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
